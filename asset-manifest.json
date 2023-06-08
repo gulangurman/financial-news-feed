@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/financial-news-feed/static/css/main.073c9b0a.css",
+    "main.js": "/financial-news-feed/static/js/main.823289cc.js",
+    "static/js/787.f9431869.chunk.js": "/financial-news-feed/static/js/787.f9431869.chunk.js",
+    "static/media/logo.svg": "/financial-news-feed/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/financial-news-feed/index.html",
+    "main.073c9b0a.css.map": "/financial-news-feed/static/css/main.073c9b0a.css.map",
+    "main.823289cc.js.map": "/financial-news-feed/static/js/main.823289cc.js.map",
+    "787.f9431869.chunk.js.map": "/financial-news-feed/static/js/787.f9431869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.823289cc.js"
+  ]
+}
